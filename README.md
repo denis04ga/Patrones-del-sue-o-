@@ -16,7 +16,7 @@ de Estadística en la Universidad Veracruza.
 FASES DEL PROYECTO: 
 1. Introducción:
 2. Plantamiento del problema:
-3. Conjunto de datos:Registro del sueño-factores (1).xlsx 
+3. Conjunto de datos: 
 4. Resultados:
 5. Conclusiones:
 
