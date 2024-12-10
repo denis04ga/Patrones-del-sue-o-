@@ -18,7 +18,7 @@ de Estadística en la Universidad Veracruza.
 FASES DEL PROYECTO: 
 1. **Introducción:**[Haz click aquí](Introducción.md)
 3. **Plantamiento del problema:**[Haz click aqui](Planteamiento-del-problema.md)
-4. **Conjunto de datos:**[Haz click aqui](Conjunto-de-datos.md)
+4. **Conjunto de datos:**[Haz click aqui](Conjunto.md)
 5. **Modelamiento de datos:**[Haz click aqui](Modelamiento-de-datos.md)
 6. **Resultados:**[Haz click aqui](Resultados.md)
 7. **Conclusiones:**[Haz click aqui](Conclusiones.md)
