@@ -1,4 +1,4 @@
-**MODELAMIENTO DE DATOS**
+## **MODELAMIENTO DE DATOS**
 
 Las variables seleccionadas para el análisis de la investigación se determinaron por la disponibilidad de estas, categorizándolas en dos variables: a) Variables independientes y b) variable dependiente de la cuál la primera variable se contabiliza desde los datos demográficos, patrones de sueño, indicadores de bienestar y factores contextuales, mientras que la variable dependiente se encuentra el rendimiento académico. 
 
