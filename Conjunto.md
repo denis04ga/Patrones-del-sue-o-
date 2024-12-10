@@ -4,7 +4,10 @@ Para la obtención de datos con respecto a identificar los patrones de sueño en
 
 <img width="351" alt="image" src="https://github.com/user-attachments/assets/cba17bf1-1c48-41fe-8823-82706fc82d72">
 
+-
+
 <img width="349" alt="image" src="https://github.com/user-attachments/assets/9a356d8b-15db-4aa2-9cf6-a12e28a6d66d">
+
 
 Los datos se adjuntaron en una encuesta realizada por el equipo en un formato de Google Forms una herramienta gratuita de Google que permite crear y analizar formularios en línea. Las preguntas que se crearon para la realización de la encuesta fueron seleccionadas para buscar comprender el tiempo de sueño de los estudiantes, sus hábitos, analizar los factores como el estrés o el uso de dispositivos para analizar aquello que se considera recurrente en determinar el patrón del sueño de un estudiante. 
 
