@@ -1,4 +1,4 @@
-#Planteamiento del problema: 
+##**Planteamiento del problema**
 
 Diversos estudios han demostrado que el sueño desempeña un papel crucial en el aprendizaje y la memoria. Durante las etapas de descanso, el cerebro consolida información, lo que mejora el rendimiento académico y la capacidad de retención, la alteración o la privación de este genera repercusiones negativas en las actividades de un individuo, en el ámbito académico reduce la capacidad de concentración, afecta el estado de ánimo y disminuye la productividad. 
 
