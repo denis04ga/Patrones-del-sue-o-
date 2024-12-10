@@ -1,4 +1,4 @@
-##**Planteamiento del problema**
+## **Planteamiento del problema**
 
 Diversos estudios han demostrado que el sueño desempeña un papel crucial en el aprendizaje y la memoria. Durante las etapas de descanso, el cerebro consolida información, lo que mejora el rendimiento académico y la capacidad de retención, la alteración o la privación de este genera repercusiones negativas en las actividades de un individuo, en el ámbito académico reduce la capacidad de concentración, afecta el estado de ánimo y disminuye la productividad. 
 
@@ -6,6 +6,8 @@ Se considera importante conocer cuál es la calidad de sueño de los estudiantes
  
  En base a lo anteriormente planteado, se plantea las siguientes preguntas de investigación: 
  
-#¿Cuáles son las diferencias en los patrones de sueño entre los estudiantes de Ingeniería en Ciencia de datos y Estadística, y cómo afectan estas diferencias al rendimiento académico y bienestar general?
+_**¿Cuáles son las diferencias en los patrones de sueño entre los estudiantes de Ingeniería en Ciencia de datos y Estadística, y cómo afectan estas diferencias al rendimiento académico y bienestar general?**_
 
-#¿Qué factores son los que influyen en el rendimiento académico de los estudiantes? 
+_**¿Qué factores son los que influyen en el rendimiento académico de los estudiantes?**_
+
+![image](https://github.com/user-attachments/assets/1258d55b-ef38-4a7e-9210-fb3503755f30)
