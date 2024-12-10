@@ -13,6 +13,8 @@ Determinar los patrones de sueño de los estudiantes universitarios en diferente
 de primer semestre de la carrera de Ciencia de datos y los de séptimo y noveno semestre
 de Estadística en la Universidad Veracruza. 
 
+![image](https://github.com/user-attachments/assets/affc048d-a39b-4235-a5ed-5adf578f8699)
+
 FASES DEL PROYECTO: 
 1. **Introducción:**[Haz click aquí](Introducción.md)
 3. **Plantamiento del problema:**[Haz click aqui](Planteamiento-del-problema.md)
