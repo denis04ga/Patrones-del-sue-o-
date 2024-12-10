@@ -1,4 +1,4 @@
-Conjunto de datos
+**CONJUNTO DE DATOS**
 
 Para la obtención de datos con respecto a identificar los patrones de sueño en los estudiantes y los factores que afectan en su ciclo y sus hábitos, se realizó una encuesta con diferentes categorías donde se dividen en diferentes variables para la comprensión de los datos y el manejo que se les dará a estos. 
 
