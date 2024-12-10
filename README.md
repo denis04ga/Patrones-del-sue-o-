@@ -1,4 +1,4 @@
-# ANÁLISIS DE PATRONES DEL SUEÑO 
+## ANÁLISIS DE PATRONES DEL SUEÑO 
 Investigación sobre análisis de patrones del sueño entre estudiantes de Ciencia de datos y Estadística, de primero y séptimo/noveno respectivamente
 
 Integrantes:          
