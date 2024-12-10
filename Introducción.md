@@ -1,4 +1,4 @@
-INTRODUCCIÓN 
+**INTRODUCCIÓN** 
 
 El presente análisis tiene como objetivo determinar los patrones de sueño de los estudiantes universitarios en diferentes etapas de su formación académica. Particularmente, se enfoca en los estudiantes de primer semestre de la carrera de Ciencia de Datos y los de séptimo y noveno semestre de Estadística en la Universidad Veracruzana. La selección de este grupo de individuos responde a la necesidad de comparar dos grupos con contextos distintos y similitudes académicas: los de primer semestre, que se encuentran en una etapa inicial de adaptación, y los de último semestre, que enfrentan retos vinculados a la finalización de su carrera y la transición al mundo laboral. Se utilizó un criterio de selección por conveniencia, centrándose en estudiantes con disponibilidad para participar y que estuviesen vinculados con fundamentos respecto a la Ciencia de datos. 
 
