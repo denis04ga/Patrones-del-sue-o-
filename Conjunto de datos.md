@@ -12,3 +12,5 @@ El proceso de obtener datos fue extenso, puesto que primero se realizó una encu
 Con respecto a la recolección de datos buscamos información del total de estudiantes que integran los de la Licenciatura en Ingeniería en Ciencia de datos y los de Estadística para un aproximado de respuestas que obtendría la encuesta, siendo un máximo de ciento sesenta encuestados para nuestra investigación, concretar este aparto de recolección de datos se tardo un aproximado de tres días como máximo, considerando que no se cumplió o se concreto con el total de encuestados que se tenía planeado. 
 
 Por último, la transformación que se llevó a cabo para preparar los datos fue una limpieza de este, considerando aquellos valores nulos o que no cumplieran con los ítems completos, de este que fueran descartados de la encuesta, además de el procesamiento de algunos datos para mejorar el uso de estos datos y mejor manejabilidad. Se realizó un ingreso de los datos a una base de datos, y se realizó un control posterior de los mismos a efectos de detectar y corregir errores de digitación. 
+
+Obtención de datos: Registro del sueño-factores (1).xlsx
