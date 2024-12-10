@@ -1,4 +1,4 @@
-#Conclusión 
+CONCLUSIÓN 
 
 La falta de cuidado al satisfacer las necesidades de sueño puede generar un déficit que impacta negativamente en la salud. Además, es común que se subestime la importancia de mantener hábitos de sueño adecuados, ya que esta actividad  llega a ser percibida como una pérdida de tiempo.
 
