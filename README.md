@@ -14,7 +14,7 @@ de primer semestre de la carrera de Ciencia de datos y los de séptimo y noveno 
 de Estadística en la Universidad Veracruza. 
 
 FASES DEL PROYECTO: 
-1. Introducción:(Introducción.md)
+1. Introducción:
 3. Plantamiento del problema:
 4. Conjunto de datos: 
 5. Resultados:
